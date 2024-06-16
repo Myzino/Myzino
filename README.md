@@ -1,2 +1,2 @@
-<p align="center"> Hi there 👋 It's Myzino </p>
+<h1 align="center"> Hi there 👋 It's Myzino </h1>
 
