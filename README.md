@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## <p align="center"></p>
+## <p align="center">GIF</p>
 <p align="center">
-  <img src="https://tenor.com/view/tower-of-god-anime-clapping-gif-18814547" alt="GIF">
+  <img src="https://media.tenor.com/images/03c47c0202064019b7f4e6e2fdc3f18f/tenor.gif" alt="Tower of God Anime Clapping GIF">
 </p>
