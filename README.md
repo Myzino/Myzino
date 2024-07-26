@@ -35,5 +35,5 @@
 
 ## <p align="center">GIF</p>
 <p align="center">
-  <img src="https://media.tenor.com/images/03c47c0202064019b7f4e6e2fdc3f18f/tenor.gif" alt="Tower of God Anime Clapping GIF">
+  <img src="https://media1.tenor.com/m/ubXABvjKcKIAAAAC/tower-of-god-anime.gif" alt="Tower of God Anime Clapping GIF">
 </p>
