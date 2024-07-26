@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there 👋 It's Myzino </h1>
 
-# <p align="center">Myzino</p>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Myzino.Myzino" alt="Visitors">
 </p>
