@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 It's Myzino </h1>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Myzino.Myzino)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Myzino.Myzino)
 
 ## Contributions
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true)
