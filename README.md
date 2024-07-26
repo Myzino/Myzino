@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there 👋 It's Myzino </h1>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Myzino)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Myzino.Myzino)
 
 ## Contributions
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true)
 
 ## Commits
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Myzino)
 
 ## Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=5&margin-h=5)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -22,7 +22,6 @@
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-
 
 
 
