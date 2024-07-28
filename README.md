@@ -4,15 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-## <p align="center">Contributions</p>
+## <p align="center">Contributions & Commits</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true&theme=light" alt="GitHub Contributions">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myzino&theme=light" alt="GitHub Commits">
 </p>
 
-## <p align="center">Commits</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myzino&theme=light" alt="GitHub Commits">
-</p>
 
 ## <p align="center">Trophy</p>
 <p align="center">
