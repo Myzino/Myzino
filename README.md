@@ -6,12 +6,12 @@
 
 ## <p align="center">Contributions</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true&theme=dark" alt="GitHub Contributions">
+  <img src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true&theme=light" alt="GitHub Contributions">
 </p>
 
 ## <p align="center">Commits</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myzino&theme=dark" alt="GitHub Commits">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myzino&theme=light" alt="GitHub Commits">
 </p>
 
 ## <p align="center">Trophy</p>
