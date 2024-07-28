@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 It's Myzino </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Myzino.Myzino" alt="Visitors">
-</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 ## <p align="center">Contributions</p>
 <p align="center">
