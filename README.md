@@ -11,6 +11,11 @@
 </p>
 
 
+## <p align="center">Most Used Language</p>
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 
 ## <p align="center">Trophy</p>
 <p align="center">
