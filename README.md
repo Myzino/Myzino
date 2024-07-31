@@ -4,25 +4,25 @@
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-## <p align="center">Contributions & Commits</p>
+## <p align="center">📈 Contributions & Commits</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&count_private=true&theme=light" alt="GitHub Contributions" height="195">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myzino&theme=light" alt="GitHub Commits" height="195">
 </p>
 
 
-## <p align="center">Most Used Language</p>
+## <p align="center">💬 Most Used Language</p>
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendlydark-">
 </p>
  
 
-## <p align="center">Trophy</p>
+## <p align="center">🏆 Trophy</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub" alt="GitHub Trophy">
 </p>
 
-## <p align="center">Tech Stack</p>
+## <p align="center">💻 Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
