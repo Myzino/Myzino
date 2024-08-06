@@ -10,7 +10,8 @@
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 
 </p>
- <p>📈 Profile Views</p>
+
+## <p>📈 Profile Views</p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
 </div>
