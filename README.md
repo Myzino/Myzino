@@ -1,6 +1,6 @@
 <div style="text-align: center;">
  <a href="https://myzino.github.io/My-portfolio/" target="_blank">
-  <img src="/assets/hi.jpg" alt="Jeffrey">
+  <img src="/assets/Jeffrey Sedoro.jpg" alt="Jeffrey">
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 ## <p>About Me</p>
 <br>
 <p>
-        <img align="right" width="350" height="300" src="/assets/453495452_845552753877838_4183802076416340351_n.jpg">
+        <img align="right" width="350" height="300" src="/assets/5db7bd2f3b0d538e085374d1e6b36188.gif">
 
 😳 &emsp; IT student<br/><br/>
 💻 &emsp; Currently learning Python <br/><br/>
