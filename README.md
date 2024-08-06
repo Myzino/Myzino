@@ -68,6 +68,6 @@
 ## <p align="center"></p>
 <p align="center">
   <img src="https://media1.tenor.com/m/ubXABvjKcKIAAAAC/tower-of-god-anime.gif" alt="Tower of God Anime Clapping GIF">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&background=000000&width=500&lines=Welcome+to+my+github+profile!;fwd.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding.;Wowowowowoowow." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&background=000000&width=600&lines=Welcome+to+my+github+profile!;fwd.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding.;Wowowowowoowow." />
 
 </p>
