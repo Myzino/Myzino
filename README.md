@@ -52,7 +52,7 @@
 
 ## <p>💬 Most Used Language</p>
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendlydark-">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2">
 </p>
  
 
