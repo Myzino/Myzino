@@ -3,7 +3,7 @@
 # About me
 <br>
 <p>
-        <img align="right" width="350" src="/assets/5db7bd2f3b0d538e085374d1e6b36188.gif">
+        <img align="right" width="350" src="/assets/453495452_845552753877838_4183802076416340351_n.jpg">
 
 😳 &emsp; IT student<br/><br/>
 💻 &emsp; Currently learning Python<br/><br/>
