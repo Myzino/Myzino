@@ -10,10 +10,16 @@
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 
 <p>Or Reach me through my socials</p>
-<p align="center">
+<p>
   <a href="https://www.instagram.com/jfrokz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="lushcries">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Jeffrey">
+</a>
+<a href="https://x.com/Jepriii08" target="_blank">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Jeffrey">
   </a>
+   <a href="https://www.facebook.com/Benkiekun/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Jeffrey">
+
 
 </p>
 
