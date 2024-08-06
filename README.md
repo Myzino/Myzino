@@ -1,6 +1,13 @@
 <div style="text-align: center;">
+ <a href="https://www.instagram.com/jfrokz/" target="_blank">
   <img src="/assets/hi.jpg" alt="Jeffrey">
+  </a>
 </div>
+
+## <p>🏆 Trophy</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub" alt="GitHub Trophy">
+</p>
 
 ## <p>About Me</p>
 <br>
@@ -47,10 +54,6 @@
 </p>
  
 
-## <p>🏆 Trophy</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub" alt="GitHub Trophy">
-</p>
 
 ## <p>💻 Tech Stack</p>
 <p align="center">
