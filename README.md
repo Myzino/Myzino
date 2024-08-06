@@ -1,12 +1,14 @@
-<h1 align="center"> Hi there 👋 It's Jeffrey! </h1>
+<div style="text-align: center;">
+  <img src="/assets/hi.jpg" alt="Jeffrey">
+</div>
 
-# About me
+## <p>About Me</p>
 <br>
 <p>
         <img align="right" width="350" height="300" src="/assets/453495452_845552753877838_4183802076416340351_n.jpg">
 
 😳 &emsp; IT student<br/><br/>
-💻 &emsp; Currently learning Python<br/><br/>
+💻 &emsp; Currently learning Python <br/><br/>
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 
 <p>Or Reach me through my socials: </p>
