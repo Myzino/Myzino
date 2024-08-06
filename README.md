@@ -1,4 +1,15 @@
-<h1 align="center"> Hi there 👋 It's Myzino </h1>
+<h1 align="center"> Hi there 👋 It's Jeffrey! </h1>
+
+# About me
+<br>
+<p>
+        <img align="right" width="350" src="/assets/5db7bd2f3b0d538e085374d1e6b36188.gif">
+
+😳 &emsp; IT student<br/><br/>
+💻 &emsp; Currently learning Python<br/><br/>
+🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
+
+</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
