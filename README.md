@@ -30,7 +30,7 @@
 
 
 
-## <p>📈 Profile Views</p>
+## <p>🧑‍💻 Profile Views</p>
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=7F00FF" alt=""/>
 </div>
