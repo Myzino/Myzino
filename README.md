@@ -10,7 +10,7 @@
 </p>
 
 
-## <p>About Me</p>
+## <p>🌍 About Me</p>
 <br>
 <p>
         <img align="right" width="400" height="300" src="/assets/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966.gif">
