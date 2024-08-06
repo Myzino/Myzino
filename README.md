@@ -10,12 +10,12 @@
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 
 </p>
-
+ <p>📈 Profile Views</p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-## <p align="center">📈 Contributions & Commits</p>
+## <p>📈 Contributions & Commits</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myzino&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
     
@@ -23,18 +23,18 @@
 </div>
 
 
-## <p align="center">💬 Most Used Language</p>
+## <p>💬 Most Used Language</p>
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendlydark-">
 </p>
  
 
-## <p align="center">🏆 Trophy</p>
+## <p>🏆 Trophy</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub" alt="GitHub Trophy">
 </p>
 
-## <p align="center">💻 Tech Stack</p>
+## <p>💻 Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
