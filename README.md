@@ -27,7 +27,7 @@
 
 
 ## <p>📈 Profile Views</p>
-<div id="header" align="center">
+<div id="header">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=orange" alt=""/>
 </div>
 
