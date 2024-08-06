@@ -5,9 +5,10 @@
 </div>
 
 ## <p>🏆 Trophy</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub" alt="GitHub Trophy">
+<p align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophy" style="border: 2px solid #e74c3c; border-radius: 10px;">
 </p>
+
 
 ## <p>About Me</p>
 <br>
