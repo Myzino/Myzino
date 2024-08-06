@@ -13,7 +13,7 @@
 ## <p>About Me</p>
 <br>
 <p>
-        <img align="right" width="400" height="300" src="/assets/5db7bd2f3b0d538e085374d1e6b36188.gif">
+        <img align="right" width="400" height="300" src="/assets/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966.gif">
 
 😳 &emsp; IT student<br/><br/>
 💻 &emsp; Currently learning Python <br/><br/>
