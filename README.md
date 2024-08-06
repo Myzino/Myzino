@@ -9,7 +9,7 @@
 💻 &emsp; Currently learning Python<br/><br/>
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 
-<p>Or Reach me through my socials</p>
+<p>Or Reach me through my socials: </p>
 <p>
   <a href="https://www.instagram.com/jfrokz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Jeffrey">
