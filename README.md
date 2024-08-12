@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <a href="https://myzino.github.io/My-portfolio/" target="_blank">
+ <a href="https://myzino.github.io/my-portfolio/" target="_blank">
   <img src="/assets/Jeffrey Sedoro.jpg" alt="Jeffrey">
   </a>
 </div>
