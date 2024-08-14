@@ -8,6 +8,7 @@
 <p align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophy" style="border: 2px solid #e74c3c; border-radius: 10px;">
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;fwd+numbawan.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding.;Wowowowowoowow." />
 
 
 ## <p>🌍 About Me</p>
@@ -64,9 +65,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
-## <p align="center"></p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/ubXABvjKcKIAAAAC/tower-of-god-anime.gif" alt="Tower of God Anime Clapping GIF">
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;fwd+numbawan.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding.;Wowowowowoowow." />
