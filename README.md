@@ -53,17 +53,18 @@
 
 ## <p>💻 Tech Stack</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Frappe-3498DB?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe">
+  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
