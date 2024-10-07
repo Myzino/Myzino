@@ -8,7 +8,8 @@
 <p align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophy" style="border: 2px solid #e74c3c; border-radius: 10px;">
 </p>
-<div style="text-align: center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;fwd+numbawan.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding.;Wowowowowoowow." />
+<div align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;exploring+NextJs+for+the+meantime.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
 </div>
 
 
