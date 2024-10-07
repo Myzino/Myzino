@@ -5,7 +5,7 @@
 </div>
 
 ## <p align="center">🧑‍💻 Profile Views</p>
-<div id="header">
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=7F00FF" alt=""/>
 </div>
 ## <p>🌍 About Me</p>
