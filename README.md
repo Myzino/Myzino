@@ -55,7 +55,7 @@
 
 ## <p>💻 Tech Stack</p>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,reactjs,regex,postman,discord,mongodb,express,git,github&theme=dark"/>
+  <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,regex,postman,discord,mongodb,express,git,github&theme=dark"/>
 </p>
 
 
