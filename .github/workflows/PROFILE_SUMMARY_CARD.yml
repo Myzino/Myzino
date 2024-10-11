@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: PROFILE_SUMMARY_CARD
 
 on:
   create:
@@ -9,7 +9,7 @@ on:
 jobs:
 build:
   runs-on: ubuntu-latest
-  name: generate-github-cards
+  name: PROFILE_SUMMARY_CARD
   permissions:
     contents: write
 
