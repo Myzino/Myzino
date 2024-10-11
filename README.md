@@ -27,10 +27,10 @@
 </p>
 
 ## <p>🏆 Trophy</p>
-<p align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+<p style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-profile-trophy.vercel.app/?username=Myzino&margin-w=5&margin-h=5&theme=darkhub&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophy" style="border: 2px solid #e74c3c; border-radius: 10px;">
 </p>
-<div align="center"> 
+<div > 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;exploring+NextJs+for+the+meantime.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
 </div>
 
@@ -39,7 +39,7 @@
 
 
 ## <p>📈 Contributions & Commits</p>
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Myzino&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
     
   <img src="https://streak-stats.demolab.com?user=Myzino&locale=en&mode=daily&background=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=FFFFFF&dates=8A2BE2&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
