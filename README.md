@@ -47,7 +47,7 @@
 
 
 ## <p>💬 Most Used Language</p>
-<p align="center">
+<p >
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2">
   
  [![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
