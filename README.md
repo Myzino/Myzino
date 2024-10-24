@@ -1,6 +1,5 @@
 <div style="text-align: center;">
- <a href="portfolio-six-livid-89.vercel.app
-" target="_blank">
+ <a href="https://portfolio-959vjhy6l-myzinos-projects.vercel.app/" target="_blank">
   <img src="/assets/Jeffrey Sedoro.jpg" alt="Jeffrey">
   </a>
 </div>
