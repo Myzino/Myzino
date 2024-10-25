@@ -43,7 +43,8 @@
 ## <p>📈 Contributions & Commits</p>
 <div>
 
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&theme=darkhub&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW" alt="My Stats" height="200" />
+
 </div>
 <div>
  <img src="https://streak-stats.demolab.com?user=Myzino&locale=en&mode=daily&background=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=FFFFFF&dates=8A2BE2&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
