@@ -43,7 +43,7 @@
 ## <p>📈 Contributions & Commits</p>
 <div>
 
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&text_color=FFFFFF&count_private=true&hide_border=true&custom_title=How%20weak%20am%20I%3F" alt="How weak am I?" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&text_color=FFFFFF&count_private=true&hide_border=true&custom_title=How%20weak%20am%20I%3F" alt="How weak am I?" height="200"  />
 
 
 </div>
@@ -52,7 +52,7 @@
 </div>
 
 
-## <p>💬 Most Used Language</p>
+## <p>💬 Most Used Languages</p>
 <p >
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2">
 
