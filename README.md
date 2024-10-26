@@ -43,7 +43,7 @@
 ## <p>📈 Contributions & Commits</p>
 <div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&text_color=FFFFFF&count_private=true&hide_border=true&custom_title=How%20weak%20am%20I%3F" alt="How weak am I?" height="200"  />
+<img  src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&text_color=FFFFFF&count_private=true&hide_border=true&custom_title=How%20weak%20am%20I%3F" alt="Total shit i've done?" height="200"  />
 
 
 </div>
