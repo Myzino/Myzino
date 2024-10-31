@@ -56,10 +56,8 @@
 <p >
 <img  alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" />
 
- ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)
-[![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
 
 </p>
  
