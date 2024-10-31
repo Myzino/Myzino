@@ -43,7 +43,7 @@
 ## <p>📈 Contributions & Commits</p>
 <div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Myzino&show_icons=true&icon_color=8A2BE2&bg_color=000000&text_color=FFFFFF&count_private=true&hide_border=true&custom_title=How%20weak%20am%20I%3F" alt="Total shit i've done?" height="200"  />
+<img  alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" />
 
 
 </div>
@@ -54,7 +54,7 @@
 
 ## <p>💬 Most Used Languages</p>
 <p >
-<img  alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" />
+
 
 ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
