@@ -67,7 +67,7 @@
 
 ## <p>💻 Tech Stack</p>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,java,postman,discord,mongodb,express,github&theme=ambient_gradient"/>
+  <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,java,postman,discord,mongodb,express,github&theme=dark"/>
 </p>
 
 
