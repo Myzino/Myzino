@@ -54,7 +54,7 @@
 
 ## <p>💬 Most Used Languages</p>
 <p >
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&size_weight=0.0005&count_weight=0.3&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2">
+<img  alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=ambient_gradient&show_icons=true" />
 
  ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)
 [![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
