@@ -43,7 +43,7 @@
 ## <p>📈 Contributions & Commits</p>
 <div>
 
-<img  alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" />
+<img alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /> 
 
 
 </div>
