@@ -58,7 +58,7 @@
 
 ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&layout=compact&theme=shades-of-purple&hide_border=true" /> 
 
 </p>
  
