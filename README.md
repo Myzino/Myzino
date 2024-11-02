@@ -15,7 +15,7 @@
         <img align="right" width="400" height="300" src="/assets/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966.gif">
 
 😳 &emsp; IT student<br/><br/>
-💻 &emsp; Currently learning NextJs and just Hunting some bugs for fun <br/><br/>
+💻 &emsp; Currently learning NextJs and PyQT JFO <br/><br/>
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 ⚡ &emsp; Fun fact **I play football and do code whenever I'm free.**<br/><br/>
 
@@ -42,13 +42,13 @@
 
 ## <p>📈 Contributions & Commits</p>
 
-<p align="center">
+<div>
+
+   <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" />
     
-   <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" /><img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=420" alt="Myzno's Daily Stats"/>
+   <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=420" alt="Myzno's Daily Stats"/>
     
-   
-    
-</p>
+</div>
 
 
 
