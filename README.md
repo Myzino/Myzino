@@ -48,7 +48,7 @@
 
 </div>
 <div>
- <img  alt="Myzino's Daily Streak" src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&border_radius=5" />
+<img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=420" alt="Myzno's Daily Stats"/>
 </div>
 
 
