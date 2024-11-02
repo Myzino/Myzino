@@ -44,7 +44,7 @@
 
 <div>
 
-  <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border" />
+  <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" />
 
     
    <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzno's Daily Stats"/>
