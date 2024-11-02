@@ -41,13 +41,14 @@
 
 
 ## <p>📈 Contributions & Commits</p>
-<div>
 
-<img alt="Myzno's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" /><img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=420" alt="Myzno's Daily Stats"/>
+<div style="display: flex; gap: 10px; align-items: center;">
 
+    <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true" /> 
+    
+    <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=420" alt="Myzno's Daily Stats"/>
 
 </div>
-
 
 
 
