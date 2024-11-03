@@ -42,12 +42,12 @@
 
 ## <p>📈 Contributions & Commits</p>
 
-<div>
+<div align="center">
 
   <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" />
-
-    
-   <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzno's Daily Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzno's Daily Stats"/>
+  ![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
     
 </div>
 
@@ -56,10 +56,6 @@
 
 ## <p>💬 Most Used Languages</p>
 <p >
-
-
-![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&layout=compact&theme=shades-of-purple&hide_border=true" /> 
 
 </p>
