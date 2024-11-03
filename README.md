@@ -47,11 +47,6 @@
   <div>
     <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" width="400" />
     <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=400" alt="Myzino's Daily Stats" width="400" />
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" width="400" />
-    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg" width="400" />
-  </div>
 </div>
 
   <div>
