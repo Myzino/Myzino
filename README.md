@@ -43,13 +43,16 @@
 ## <p>📈 Contributions & Commits</p>
 
 <div align="center">
-
-  <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzno's Daily Stats"/>
-  <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg" />
-    
+  <div>
+    <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzino's Daily Stats" />
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg" />
+  </div>
 </div>
+
 
 
 
