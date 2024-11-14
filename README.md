@@ -40,7 +40,7 @@
 
 
 
-## <p>📈 Contributions & Commits</p>
+## <p>📈 Contributions & Commit</p>
 
 <div align="center">
   <div>
