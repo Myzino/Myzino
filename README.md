@@ -37,35 +37,10 @@
 </div>
 
 
-
-
-
-## <p>📈 Contributions & Commit</p>
-
-<div align="center">
-  <div>
-    <img alt="Myzino's Stats" src="https://github-readme-stats.vercel.app/api?username=Myzino&theme=shades-of-purple&show_icons=true&hide_border=true" />
-    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" />
-  </div>
-  <div>
-    <img src="https://streak-stats.demolab.com?user=Myzino&theme=shades-of-purple&hide_border=true&card_width=468" alt="Myzino's Daily Stats" />
-    <img src="https://raw.githubusercontent.com/Myzino/Myzino/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg" />
-  </div>
-</div>
-
-
-
-
-
-## <p>💬 Most Used Languages</p>
-<p >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myzino&layout=compact&theme=shades-of-purple&hide_border=true" /> 
-
-</p>
  
 
 
-## <p>💻 Tech Stack</p>
+## <p>💻 Tools i use for Projects and Work</p>
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,java,postman,discord,mongodb,express,github&theme=dark"/>
 </p>
