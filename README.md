@@ -1,13 +1,16 @@
 <div style="text-align: center;">
  <a href="https://portfolio-six-livid-89.vercel.app/" target="_blank">
-  <img src="/assets/Jeffrey Sedoro.jpg" alt="Jeffrey">
+  <img src="/assets/jepjepjep.gif" alt="Jeffrey">
   </a>
 </div>
+
 
 
 ## <p>🌍 About Me</p>
 <br>
 <p>
+
+
 
 😳 &emsp; IT student<br/><br/>
 💻 &emsp; Currently learning NextJs and just Hunting some bugs JFO <br/><br/>
