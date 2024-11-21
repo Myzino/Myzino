@@ -12,8 +12,8 @@
 
 
 
-😳 &emsp; IT student<br/><br/>
-💻 &emsp; Currently learning NextJs and just Hunting some bugs JFO <br/><br/>
+😳 &emsp; 4th year Student Taking Bachelor of Science in Information Technology<br/><br/>
+💻 &emsp; Currently learning NextJs and IoT Driven Technologies and Bug Hunting JFO<br/><br/>
 🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
 ⚡ &emsp; Fun fact **I play football and do code whenever I'm free.**<br/><br/>
 
