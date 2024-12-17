@@ -18,7 +18,7 @@
 ⚡ &emsp; Fun fact **I play football, reading books and do code whenever I'm free.**<br/><br/>
 
 <p align="center">Or Reach me through my socials: </p>
-<p>
+<p align="center">
 <a href = "https://x.com/Jepriii08/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/myzino_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/Benkiekun/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
