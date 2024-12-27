@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <a href="https://portfolio-six-livid-89.vercel.app/" target="_blank">
+ <a href="https://myzno-git-main-myzinos-projects.vercel.app/" target="_blank">
   <img src="/assets/jep.gif" alt="Jeffrey">
   </a>
 </div>
