@@ -31,7 +31,7 @@
 
 </p>
 <div > 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;exploring+NextJs+for+the+meantime.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;Currently+Exploring+ML+Concepts+and+its+practical+Implementation.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
 </div>
 
 
