@@ -49,4 +49,4 @@
 </p>
 
 ### 🎶 My Featured Playlist:
-[![Spotify](https://i.scdn.co/image/ab67616d00001e027d4d4d4d4d4d4d4d4d4d4d4d)](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5?si=d114252f293d4acd)
+[![Spotify](/assets/dl.png)](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5?si=d114252f293d4acd)
