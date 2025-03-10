@@ -49,4 +49,4 @@
 </p>
 
 ### 🎶 My Featured Playlist:
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5?si=d114252f293d4acd)
+[![Spotify](https://i.scdn.co/image/ab67616d00001e027d4d4d4d4d4d4d4d4d4d4d4d)](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5?si=d114252f293d4acd)
