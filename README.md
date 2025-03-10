@@ -49,4 +49,4 @@
 </p>
 
 ### 🎶 My Featured Playlist:
-[![Youtube](/assets/dl.png)](https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU)
+[![youtube](/assets/dl.png)](https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU)
