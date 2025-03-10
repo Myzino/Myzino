@@ -47,3 +47,6 @@
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,java,postman,discord,mongodb,express,github&theme=dark"/>
 </p>
+
+### 🎶 My Featured Playlist:
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5?si=d114252f293d4acd)
