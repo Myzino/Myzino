@@ -52,6 +52,12 @@
 
 <p align="center">
 
-[![youtube](/assets/dl.png)](https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU)
-[![youtube](/assets/tyler.png)](https://www.youtube.com/watch?v=9RuII0Ej2lk)
+<a href="https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU" target="_blank">
+    <img src="/assets/dl.png" alt="youtube" width="200" height="100">
+</a>
+
+<a href="https://www.youtube.com/watch?v=9RuII0Ej2lk" target="_blank">
+    <img src="/assets/tyler.png" alt="youtube" width="200" height="100">
+</a>
+
 </p>
