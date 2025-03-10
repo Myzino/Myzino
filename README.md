@@ -50,7 +50,7 @@
 
 ### 🎶 My Featured Playlist:
 
-<p align="center">
+<p>
 
 <a href="https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU" target="_blank">
     <img src="/assets/dl.png" alt="youtube" width="200" height="100">
