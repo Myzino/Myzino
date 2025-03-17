@@ -35,12 +35,15 @@
 </div>
 
 
- 
-## 
+## 👤 Profile Views
 
-<div id="header" >
-  <img src="https://komarev.com/ghpvc/?username=Myzino&style=for-the-badge&color=7F00FF" alt=""/>
-</div>
+counting of visitors to this page in this section started from March 17, 2025
+
+<br><br>
+
+![](https://count.getloli.com/get/@Myzino.github.readme)
+
+<br><br>
 
 
 ## <p>💻 Tools i use for Projects and Work</p>
@@ -62,12 +65,4 @@
 
 </p>
 
-## 👤 Profile Views
 
-counting of visitors to this page in this section started from June 30, 2023
-
-<br><br>
-
-![](https://count.getloli.com/get/@Myzino.github.readme)
-
-<br><br>
