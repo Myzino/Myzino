@@ -19,7 +19,7 @@
       🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
       ⚡ &emsp; Fun fact <strong>I play football, read books, and code whenever I'm free.</strong><br/><br/>
     </span>
-    <img src="/assets/giphy.gif" alt="gif" align="right" >
+    <img src="/assets/giphy.gif" alt="gif" align="right" width="full" height="full">
   </div>
 </div>
 
