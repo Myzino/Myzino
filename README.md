@@ -12,12 +12,17 @@
 
 
 <div align="center">
-<img src="/assets/giphy.gif" alt="gif">
-😳 &emsp; 4th year Student Taking Bachelor of Science in Information Technology<br/><br/>
-💻 &emsp; Currently learning NextJs and IoT Driven Technologies and Bug Hunting JFO<br/><br/>
-🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
-⚡ &emsp; Fun fact **I play football, reading books and do code whenever I'm free.**<br/><br/>
+  <div>
+    <span>
+      😳 &emsp; 4th year Student Taking Bachelor of Science in Information Technology<br/><br/>
+      💻 &emsp; Currently learning NextJs and IoT Driven Technologies and Bug Hunting JFO<br/><br/>
+      🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
+      ⚡ &emsp; Fun fact <strong>I play football, read books, and code whenever I'm free.</strong><br/><br/>
+    </span>
+    <img src="/assets/giphy.gif" alt="gif" align="right" width="150">
+  </div>
 </div>
+
 <p>Or Reach me through my socials: </p>
 <p>
 <a href = "https://x.com/Jepriii08/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
