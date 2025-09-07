@@ -14,7 +14,7 @@ counting of visitors to this page in this section started from March 17, 2025
 ![](https://count.getloli.com/get/@Myzino.github.readme)
 
 <br><br>
-<div>
+</div>
 ## <p>🌍 About Me</p>
 <br>
 <p>
