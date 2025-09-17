@@ -61,19 +61,7 @@ counting of visitors to this page in this section started from March 17, 2025
   <img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,laravel,arduino,react,java,postman,discord,mongodb,express,github&theme=dark"/>
 </p>
 
-### 🎶 My Featured Playlist:
 
-<p>
-
-<a href="https://www.youtube.com/watch?v=EOFA9kPQ_uU&list=RDEOFA9kPQ_uU&start_radio=1&rv=EOFA9kPQ_uU" target="_blank">
-    <img src="/assets/dl.png" alt="youtube" width="200" height="100">
-</a>
-
-<a href="https://www.youtube.com/watch?v=9RuII0Ej2lk" target="_blank">
-    <img src="/assets/tyler.png" alt="youtube" width="200" height="100">
-</a>
-
-</p>
 
 
 
